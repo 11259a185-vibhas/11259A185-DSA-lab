@@ -3,7 +3,7 @@
 Data Structures and Algorithms Laboratory E-Record
 
 - **Register number:** 11259A185
-- **Student:** Vibhas
+- **Student:** G V Vibhas
 - **College email:** 11259a185@kanchiuniv.ac.in
 
 All 12 completed experiment programs are stored at the repository root as C source files, following `11259A185_expN.c`.
